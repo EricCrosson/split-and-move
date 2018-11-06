@@ -1,4 +1,4 @@
-# split-and-move [![Build Status](https://travis-ci.org/EricCrosson/split-and-move.svg?branch=master)](https://travis-ci.org/EricCrosson/split-and-move)
+# split-and-move [![Build Status](https://travis-ci.org/EricCrosson/split-and-move.svg?branch=master)](https://travis-ci.org/EricCrosson/split-and-move) [![Version](https://img.shields.io/github/tag/EricCrosson/split-and-move.svg)](https://github.com/EricCrosson/split-and-move/releases)
 
 > Split current GNU Emacs window and move point to the new pane
 
