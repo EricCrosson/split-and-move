@@ -30,7 +30,7 @@ Or manually, after downloading into your `load-path`
 - [Working with Multiple Windows](https://emacshints.wordpress.com/2013/10/18/working-with-multiple-windows/)
 - [Go Back to Previous Window](http://emacsredux.com/blog/2013/03/30/go-back-to-previous-window/)
 
-## Acknowledgements
+## Acknowledgments
 
 I definitely got this code from somewhere but can't find the original
 source as it has mutated inside my configs over the past several
